@@ -10,7 +10,7 @@ Of course, you can always activate pprof endpoint but this approch has 2 issues 
 
 # Linux signal
 
-To interact with the go process we are using to linux signal USR1 and USR2 which can be used as custom signal
+To interact with the go process we can use linux signal USR1 and USR2 which can be used as custom signal
 
 So to activate the pprof:
 ```
